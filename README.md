@@ -20,6 +20,6 @@ A strategic maze navigation game where you must reach the destination while payi
 
 ## Installation 💻
 ```bash
-git clone https://github.com/your-username/TollTrek-Maze.git
+git clone https://github.com/Aayushhh07/TollTrek-The-maze-Game.git
 cd TollTrek-Maze
 python TollTrek_v5.py
